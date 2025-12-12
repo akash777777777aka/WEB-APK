@@ -1,0 +1,5 @@
+{
+  "name": "Web2Droid Converter Studio",
+  "description": "A professional GUI dashboard for converting web applications (URL, HTML, PWA) into Android packages (APK/AAB). Features Gemini-powered manifest analysis and build orchestration.",
+  "requestFramePermissions": []
+}
